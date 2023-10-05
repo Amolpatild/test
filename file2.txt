@@ -1,0 +1,5 @@
+cars = {
+  "brand": "Mahindra",
+  "model": "Thar",
+  "year": 2010
+}

@@ -1,0 +1,5 @@
+{
+  "Movie": "Pushpa",
+  "Actor": "Allu Arjun",
+  "year": 2021
+}
